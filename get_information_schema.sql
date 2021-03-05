@@ -1,1 +1,2 @@
-select * from get_information_schema
+select *
+from get_information_schema
