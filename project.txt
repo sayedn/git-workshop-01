@@ -1,0 +1,2 @@
+This a test of GIT.
+Line 2
