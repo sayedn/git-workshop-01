@@ -1,1 +1,9 @@
-this will have a main class with a static method.
+namespace HelloWorld
+{
+    class Hello {         
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("Well Hello World!");
+        }
+    }
+}
